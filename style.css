@@ -55,7 +55,7 @@ nav{
 }
 nav a{
     margin: auto;
-    padding: 10px 3% 10px 3%;
+    padding: 10px;
     color: var(--cor1);
     text-decoration: none;
     transition-duration: .5s;
