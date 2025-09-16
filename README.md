@@ -14,7 +14,6 @@ Acesse o site online: [Curiosidades Android](https://sg-gabriel.github.io/projet
 
 - HTML5  
 - CSS3  
-- JavaScript (para interações, se houver)  
 - Git/GitHub Pages para hospedagem  
 - Imagens e SVGs para ilustrações  
 
